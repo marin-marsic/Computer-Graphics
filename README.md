@@ -2,7 +2,7 @@
 Laboratory exercises from Computer Graphics course at FER.
 
 
-[Documentation in Croatian](add link) TODO: add correct link
+[Documentation in Croatian](https://github.com/marin-marsic/Computer-Graphics/blob/master/RG%20dokumntacija.pdf)
 
 ####DEMO VIDEOS:
 
