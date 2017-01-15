@@ -1,0 +1,66 @@
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\obj\x86\Debug\Labos Madness.csprojResolveAssemblyReference.cache
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Labos Madness.exe
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Labos Madness.pdb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\SharpDX.dll
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\SharpDX.xml
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\obj\x86\Debug\Labos Madness.exe
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\obj\x86\Debug\Labos Madness.pdb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\1up.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\1\background.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\1\gift1.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\1\gift2.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\1\gift3.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\1\gift4.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\2\background.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\2\gift1.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\2\gift2.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\2\gift3.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\2\gift4.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\3\background.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\3\gift1.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\3\gift2.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\3\gift3.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\3\gift4.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\4\background.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\4\gift1.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\4\gift2.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\4\gift3.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\4\gift4.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\background21.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\bag.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\bomb.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\collect.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\gameover.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\hiss.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\hit.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\miss.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\music.wma
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\music.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\music2.wma
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\music2.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\score.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\SR.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\SR2.xnb
+c:\users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Content\woof.xnb
+C:\Users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Labos Madness.exe.manifest
+C:\Users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\bin\Windows\Debug\Labos Madness.application
+C:\Users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\obj\x86\Debug\Labos Madness.exe.manifest
+C:\Users\marin\documents\visual studio 2015\Projects\Labos Madness\Labos Madness\obj\x86\Debug\Labos Madness.application
