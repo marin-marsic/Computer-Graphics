@@ -2,7 +2,9 @@
 Laboratory exercises from Computer Graphics course at FER.
 
 
-TODO...
+[Documentation in Croatian](add link) TODO: add correct link
+
+####DEMO VIDEOS:
 
 [LAB1 video](https://drive.google.com/file/d/0BwpGIEKGljusMkMtOENOeG40LWM/view)
 
