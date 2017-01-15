@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/hit.wav</SourceFile>
+  <SourceTime>2015-11-07T23:53:32+01:00</SourceTime>
+  <DestFile>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/bin/Windows/hit.xnb</DestFile>
+  <DestTime>2017-01-11T14:45:59.2930494+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2015-04-29T19:14:44+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2015-04-29T19:14:44+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/1/background.jpg</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/1/gift1.png</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/1/gift2.png</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/1/gift3.png</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/1/gift4.png</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/2/background.jpg</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/2/gift1.png</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/2/gift2.png</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/2/gift3.png</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/2/gift4.png</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/3/background.jpg</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/3/gift1.png</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/3/gift2.png</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/3/gift3.png</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/3/gift4.png</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/SR.png</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/1up.png</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/bomb.png</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/bag.png</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/music.mp3</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/hit.wav</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/woof.wav</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/hiss.wav</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/miss.wav</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/gameover.wav</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/collect.wav</File>
+    <File>C:/Users/marin/documents/visual studio 2015/Projects/Labos Madness/Labos Madness/Content/score.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
